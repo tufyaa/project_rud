@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+nltk==3.9.1
+numpy==1.26.4
+scikit-learn==1.5.1
+natasha==1.6.0
+pymorphy2==0.9.1
+requests==2.32.3
